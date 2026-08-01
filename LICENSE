@@ -1,0 +1,40 @@
+Combination Space Explorer
+Copyright (c) 2026 Mikhail Andriushchenko (mishkandr)
+
+Except where otherwise noted, this repository is licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0).
+
+You are free to share and adapt the material under the following terms:
+
+1. Attribution
+   You must give appropriate credit, provide a link to the license,
+   and indicate whether changes were made.
+
+2. NonCommercial
+   You may not use the material for commercial purposes.
+
+3. ShareAlike
+   If you remix, transform, or build upon the material, you must
+   distribute your contributions under the same license.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+Attribution
+-----------
+
+This project is an independent educational extension inspired by
+CS50's Introduction to Cybersecurity, taught by David J. Malan.
+
+Course materials:
+https://cs50.harvard.edu/cybersecurity/
+
+Related educational source code:
+https://github.com/dmalan/cybersecurity
+
+The original CS50 course materials are also licensed under
+CC BY-NC-SA 4.0.
+
+This project is not affiliated with or endorsed by Harvard University
+or CS50.
