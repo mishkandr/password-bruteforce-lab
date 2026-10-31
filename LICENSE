@@ -1,40 +1,39 @@
-Combination Space Explorer
-Copyright (c) 2026 Mikhail Andriushchenko (mishkandr)
+Password Bruteforce Lab
 
-Except where otherwise noted, this repository is licensed under the
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Copyright (c) 2026 Mikhail Andriushchenko (mishkandr),
+for original contributions to this project.
+
+This project is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
 License (CC BY-NC-SA 4.0).
 
-You are free to share and adapt the material under the following terms:
-
-1. Attribution
-   You must give appropriate credit, provide a link to the license,
-   and indicate whether changes were made.
-
-2. NonCommercial
-   You may not use the material for commercial purposes.
-
-3. ShareAlike
-   If you remix, transform, or build upon the material, you must
-   distribute your contributions under the same license.
-
-Full license text:
+Full license terms:
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+License summary:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Attribution
 -----------
 
-This project is an independent educational extension inspired by
-CS50's Introduction to Cybersecurity, taught by David J. Malan.
+This project builds on the educational brute-force example presented
+by David J. Malan in "Securing Accounts", part of CS50's Introduction
+to Cybersecurity.
 
-Course materials:
-https://cs50.harvard.edu/cybersecurity/
+Lesson:
+https://cs50.harvard.edu/cybersecurity/notes/0/
 
 Related educational source code:
 https://github.com/dmalan/cybersecurity
 
-The original CS50 course materials are also licensed under
-CC BY-NC-SA 4.0.
+CS50 course license:
+https://cs50.harvard.edu/cybersecurity/license/
 
-This project is not affiliated with or endorsed by Harvard University
-or CS50.
+The original course materials are licensed under CC BY-NC-SA 4.0.
+Rights to those materials remain with their respective rights holders.
+
+Project adaptations include combination counting and execution-time
+measurement. Further development is documented in the Git history.
+
+This project is not affiliated with or endorsed by Harvard University,
+CS50, or David J. Malan.
